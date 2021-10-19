@@ -7,43 +7,43 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # getCash.js
 Open console (ctrl + shift + j) and pase the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/tower-defense/getCash.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/getCash.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # changeGameRound.js
 watch the video here lol: https://streamable.com/9oclww
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/changeGameRound.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/changeGameRound.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # allFree.js
 Makes all the towers free, but you still need the base value to buy one
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/allFree.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/allFree.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # removeEnemies.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/removeEnemies.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/removeEnemies.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # getDamage.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/getDamage.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/getDamage.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # removeDucks.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/removeDucks.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/removeDucks.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # removeObsticles.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/removeObsticles.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/removeObsticles.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # sellForTrueValue.js
 Makes towers sell for the price you bought them
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/sellForTrueValue.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-defense/sellForTrueValue.js").then((res) => res.text().then((t) => eval(t)))
 ```
