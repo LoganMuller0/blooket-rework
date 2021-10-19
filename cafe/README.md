@@ -7,19 +7,19 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # getCoins.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/cafe/getCoins.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/cafe/getCoins.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # infiniteFoodLevel.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/cafe/infiniteFoodLevel.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/cafe/infiniteFoodLevel.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # stockInfiniteFood.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/cafe/stockInfiniteFood.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/cafe/stockInfiniteFood.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # endGame.js
@@ -27,5 +27,5 @@ this only works for cafe sadly :(
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/cafe/endGame.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/cafe/endGame.js").then((res) => res.text().then((t) => eval(t)))
 ```
