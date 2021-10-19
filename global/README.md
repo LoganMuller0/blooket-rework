@@ -11,7 +11,7 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 
 Open console (ctrl + shift + j) and pase the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # getEveryAnswerCorrect.js
@@ -23,7 +23,7 @@ note: **This doesn't work for classic game mode.**
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getEveryAnswerCorrect.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/getEveryAnswerCorrect.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # bypassRandomName.js 
@@ -33,7 +33,7 @@ note: **Box names are case sensitive**
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/bypassRandomName.js").then((res) => res.text().then((t) => eval(t)))
 ```
 # spamOpenBoxes.js
 When it asks you to open a box always include the whole box name.
@@ -42,7 +42,7 @@ for example: Aquatic Box
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/spamOpenBoxes.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # getAllBlooksInGame.js
@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/73669084/135732015-33bb6eed-772f-45f8-
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/getAllBlooksInGame.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # floodGames.js
@@ -66,5 +66,5 @@ https://user-images.githubusercontent.com/73669084/135941885-6ed837b9-197c-4e92-
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGames.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/global/floodGames.js").then((res) => res.text().then((t) => eval(t)))
 ```
