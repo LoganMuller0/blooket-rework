@@ -7,7 +7,7 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # getGold.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/gold/getGold.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/gold/getGold.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # chest-ESP.js
@@ -19,5 +19,5 @@ sorry for the shit display for chest esp :(
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/gold/chest-ESP.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/gold/chest-ESP.js").then((res) => res.text().then((t) => eval(t)))
 ```
