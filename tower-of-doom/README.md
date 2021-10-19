@@ -7,7 +7,7 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # addCoins.js 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/addCoins.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-of-doom/addCoins.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # lowerEnemyStrength.js
@@ -15,7 +15,7 @@ Basically makes the enemy weak
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyStrength.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-of-doom/lowerEnemyStrength.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # lowerEnemyCharisma.js
@@ -23,7 +23,7 @@ Basically makes the enemy weak
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyCharisma.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-of-doom/lowerEnemyCharisma.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # lowerEnemyWisdom.js
@@ -31,5 +31,5 @@ Basically makes the enemy weak
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyWisdom.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/tower-of-doom/lowerEnemyWisdom.js").then((res) => res.text().then((t) => eval(t)))
 ```
