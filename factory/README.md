@@ -7,11 +7,11 @@ if you run one of the codes and get this: ![image](https://user-images.githubuse
 # getCash.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/factory/getCash.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/factory/getCash.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # getMegaBot.js
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/getMegaBot.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/LoganMuller0/blooket-rework/main/factory/getMegaBot.js").then((res) => res.text().then((t) => eval(t)))
 ```
